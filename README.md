@@ -6,7 +6,7 @@ Intended for use with a program such as [ShareX](https://getsharex.com), the pro
 
 ### Installing
 
-Before beginning you will need an SQL Server Database within `(localdb)\MSSQLLocalDB`
+Before beginning you will need an SQL Server Database within `(localdb)\MSSQLLocalDB` called `ImageServer`
 
 Within the project, run the following in the `Package Manager Console` to update your database
 
